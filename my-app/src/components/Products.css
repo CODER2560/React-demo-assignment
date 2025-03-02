@@ -1,0 +1,19 @@
+.parent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;  
+}
+
+.addbtn {
+    background-color: #007bff; 
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.addbtn:hover {
+    background-color: #0056b3;
+}
