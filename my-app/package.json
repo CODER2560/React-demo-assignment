@@ -23,7 +23,6 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepage": "https://your-domain.vercel.app/my-app",
 
   "engines": {
   "node": "16.x"
